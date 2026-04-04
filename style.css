@@ -1,0 +1,27 @@
+body {
+    background-color: #010101;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#hh {
+    color: white;
+    display: flex;
+    flex: auto;
+    justify-content: center;
+    align-items: center;
+    font-family: monospace;
+    font-size: x-large;
+}
+
+#cutecat {
+    display: flex;
+    flex: auto;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    height: 880px;
+    width: auto;
+    border-radius: 2%;
+}
